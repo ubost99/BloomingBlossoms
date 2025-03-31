@@ -1,0 +1,46 @@
+/*
+Name: Lauren Bost
+Student #: 104902624
+Date: 2025-03-29
+Assignment: Project
+Purpose: Build a full fledge retail website (no payment..etc) for a floral company called Blooming Blossoms
+*/
+
+
+/* Custom Earth-Tone Theme Overrides */
+
+/* Body: Set the background color to a soft cream with dark green text for a natural, earthy feel */
+body {
+  background-color: #f3f0e6; /* Light cream background */
+  color: #2f3e2f; /* Dark green text for readability */
+  font-family: 'Segoe UI', sans-serif; /* Set font family to Segoe UI */
+}
+
+/* Header and Footer: Apply a soft green background to maintain the earthy theme */
+header, footer {
+  background-color: #d4e9d4; /* Light green background */
+  padding: 1rem; /* Padding for space around content */
+}
+
+/* Navigation: Remove bullet points and adjust list layout for a clean navigation style */
+nav ul {
+  list-style-type: none; /* Remove default list bullet points */
+  padding-left: 0; /* Remove padding on the left */
+}
+
+/* Navigation list items: Display them horizontally with spacing between items */
+nav ul li {
+  display: inline-block; /* Inline display for horizontal alignment */
+  margin-right: 1rem; /* Add space between list items */
+}
+
+/* Buttons: Apply a green background with white text, and adjust on hover */
+.btn {
+  background-color: #7ba05b; /* Earthy green background */
+  color: white; /* White text for contrast */
+}
+
+/* Button hover effect: Darker green on hover for a subtle interactive effect */
+.btn:hover {
+  background-color: #5e8047; /* Darker green background on hover */
+}
