@@ -1,5 +1,5 @@
 Blooming Blossoms
-Blooming Blossoms is a floral e-commerce website where users can browse and purchase beautiful floral arrangements. This project showcases an online shop for floral products with features like product management, a cart system, and a user-friendly interface. The project doesn't handle actual payments but allows users to add items to a cart, view products, and customize their theme.
+Blooming Blossoms is a fake floral e-commerce website where users can browse and purchase beautiful floral arrangements. This project showcases an online shop for floral products with features like product management, a cart system, and a user-friendly interface. The project doesn't handle actual payments but allows users to add items to a cart, view products, and customize their theme.
 
 Features
 User Authentication: Users can register, log in, and manage their accounts.
